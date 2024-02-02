@@ -1,0 +1,197 @@
+DC-80P,Duracell,Battery
+DURA12-12F2,Duracell,Battery
+DURA12-18F2,Duracell,Battery
+DURA12-18NB,Duracell,Battery
+DURA12-8F2,Duracell,Battery
+DURDC12-100P,Duracell,Battery
+FAS-1075,Power Patrol,Battery
+NP18-12B,"GS Yuasa Energy Solutions, Inc.",Battery
+NP18-12BFR,"GS Yuasa Energy Solutions, Inc.",Battery
+PRB1218T,Power Rite,Battery
+PS-121000 U,Power Sonic,Battery
+PS-12120 F2,Power Sonic,Battery
+PS-121400 FR,Power Sonic,Battery
+PS-12180 F2,Power Sonic,Battery
+PS-12180 NB,Power Sonic,Battery
+PS-12400,Power Sonic,Battery
+PS-1270 F1,Power Sonic,Battery
+PS-1400 NB,Power Sonic,Battery
+RAYA12-7F,Rayovac,Battery
+SLA1105,Power Patrol,Battery
+SP12-12,SigmasTek,Battery
+SP12-18,SigmasTek,Battery
+SP12-7,SigmasTek,Battery
+FS-OSI-R,Notifier,Beam Detector
+CO1224T,System Sensor,Carbon Monoxide Detector
+FCM-1,Notifier,Control Module
+5129,Silent Knight,DACT
+411UDAC,FireLite,DACT
+5104B,Silent Knight,DACT
+SK-5208,Silent Knight,DACT
+UDACT-2,Notifier,DACT
+DNR,System Sensor,Duct Smoke Detector
+SD505-ADHR,Silent Knight,Duct Smoke Detector
+SD505-DUCTR,Silent Knight,Duct Smoke Detector
+SK-DUCT,Silent Knight,Duct Smoke Detector
+5700,Silent Knight,Fire Alarm Control Panel
+6820,Silent Knight,Fire Alarm Control Panel
+5820XL,Silent Knight,Fire Alarm Control Panel
+EST-3,Edwards,Fire Alarm Control Panel
+FIREFINDER,Siemens,Fire Alarm Control Panel
+IFP-1000,Silent Knight,Fire Alarm Control Panel
+MXL,Siemens,Fire Alarm Control Panel
+MXL-IQ,Siemens,Fire Alarm Control Panel
+NFS2-640,Notifier,Fire Alarm Control Panel
+NFS-320,Notifier,Fire Alarm Control Panel
+NFW-100X,Notifier,Fire Alarm Control Panel
+NFW2-100,Notifier,Fire Alarm Control Panel
+S3 Series,Gamewell-FCI,Fire Alarm Control Panel
+ESP10-2,System Sensor,Flow Switch
+J54/8295,United Electric Controls,Flow Switch
+PS10-2,Potter Electrical Signal Company,Flow Switch
+PS40-2,Potter Electrical Signal Company,Flow Switch
+VSR,Potter Electrical Signal Company,Flow Switch
+VSR-F,Potter Electrical Signal Company,Flow Switch
+VSR-SF,Potter Electrical Signal Company,Flow Switch
+WFD40,System Sensor,Flow Switch
+5604,System Sensor,Heat Detector
+ADT-L3,Honeywell FCI,Heat Detector
+FST-851,Notifier,Heat Detector
+FST-951,Notifier,Heat Detector
+HFPT-11,Siemens,Heat Detector
+IDP-HEAT,Silent Knight,Heat Detector
+IDP-HEAT-W,Silent Knight,Heat Detector
+NH-100,Notifier,Heat Detector
+SD505-AHS,Silent Knight,Heat Detector
+SIGA-HRD,Edwards,Heat Detector
+SK-HEAT,Silent Knight,Heat Detector
+FMM-1,Notifier,Monitor Module
+FW-MM,Notifier,Monitor Module
+HTRI-D,Siemens,Monitor Module
+HTRI-R,Siemens,Monitor Module
+HTRI-S,Siemens,Monitor Module
+IDP-MONITOR,Silent Knight,Monitor Module
+NMM-100,Notifier,Monitor Module
+SD500-AIM,Silent Knight,Monitor Module
+SD500-MIM,Silent Knight,Monitor Module
+SIGA-MM1,Edwards,Monitor Module
+SK-MONITOR,Silent Knight,Monitor Module
+2452THS-110-R,Edwards,NAC - Horn Strobe
+AS-24MCW-FR,Wheelock,NAC - Horn Strobe
+EG1-CVM,Edwards,NAC - Horn Strobe
+HSR,Wheelock,NAC - Horn Strobe
+HSRC,Wheelock,NAC - Horn Strobe
+HSWC,Wheelock,NAC - Horn Strobe
+NS-24MCW,Wheelock,NAC - Horn Strobe
+P2R,System Sensor,NAC - Horn Strobe
+P2RK,System Sensor,NAC - Horn Strobe
+P2RL,System Sensor,NAC - Horn Strobe
+P2W,System Sensor,NAC - Horn Strobe
+P2WL,System Sensor,NAC - Horn Strobe
+PC2W,System Sensor,NAC - Horn Strobe
+PC2WL,System Sensor,NAC - Horn Strobe
+ZH-MC-CW,Siemens,NAC - Horn Strobe
+ZNS-MCC-FR,Wheelock,NAC - Horn Strobe
+ZNS-MCC-FW,Wheelock,NAC - Horn Strobe
+ZNS-MCW-FR,Wheelock,NAC - Horn Strobe
+ZNS-MCW-FW,Wheelock,NAC - Horn Strobe
+894B-003,Edwards,NAC - Speaker
+898B-999,Edwards,NAC - Speaker
+GCHFWF-S7,Edwards,NAC - Speaker
+SET-CW,Siemens,NAC - Speaker
+SPCRL,System Sensor,NAC - Speaker
+SPCW,System Sensor,NAC - Speaker
+SPRL,System Sensor,NAC - Speaker
+E50-24MCW-FR,Wheelock,NAC - Speaker Strobe
+E50-24MCW-FW,Wheelock,NAC - Speaker Strobe
+G4HFRF-S2VMC,Edwards,NAC - Speaker Strobe
+SE-MC-R,Siemens,NAC - Speaker Strobe
+SET-MC-R,Siemens,NAC - Speaker Strobe
+SPSCRL,System Sensor,NAC - Speaker Strobe
+SPSRHK,System Sensor,NAC - Speaker Strobe
+SPSRL,System Sensor,NAC - Speaker Strobe
+ZRS-MCC-FR,Wheelock,NAC - Strobe
+ZRS-MCC-FW,Wheelock,NAC - Strobe
+EGC-VMH,Edwards,NAC - Strobe
+RSS-24MCW-FR,Wheelock,NAC - Strobe
+SCRL,System Sensor,NAC - Strobe
+SCWL,System Sensor,NAC - Strobe
+SR,System Sensor,NAC - Strobe
+SRK,System Sensor,NAC - Strobe
+SRL,System Sensor,NAC - Strobe
+STR,Wheelock,NAC - Strobe
+STRC,Wheelock,NAC - Strobe
+STWC,Wheelock,NAC - Strobe
+SW,System Sensor,NAC - Strobe
+SWL,System Sensor,NAC - Strobe
+WS1T-24-FR,Wheelock,NAC - Strobe
+ZR-MC-R,Siemens,NAC - Strobe
+ZRS-MCW-FR,Wheelock,NAC - Strobe
+ZRS-MCW-FW,Wheelock,NAC - Strobe
+5895XL,Silent Knight,NAC Power Supply
+BPS6A,Edwards,NAC Power Supply
+FCPS-24S6,Notifier,NAC Power Supply
+FCPS-24S8,Notifier,NAC Power Supply
+HPF24-S8,Honeywell,NAC Power Supply
+PAD-3,Siemens,NAC Power Supply
+SK-5495,Silent Knight,NAC Power Supply
+EPS40-2,System Sensor,Pressure Switch
+279B-1110,Edwards,Pull Station
+HMS-D,Siemens,Pull Station
+HMS-M,Siemens,Pull Station
+HMS-S,Siemens,Pull Station
+IDP-PULL-DA,Silent Knight,Pull Station
+IDP-PULL-SA,Silent Knight,Pull Station
+MS-51,Siemens,Pull Station
+MS-7AF,Honeywell FCI,Pull Station
+NBG12-LX,Notifier,Pull Station
+NBG-12WL,Notifier,Pull Station
+NOT-BG12LX,Notifier,Pull Station
+PS-DA,Silent Knight,Pull Station
+PS-SA,Silent Knight,Pull Station
+SD500-PS,Silent Knight,Pull Station
+SD500-PSDA,Silent Knight,Pull Station
+SIGA-270L,Edwards,Pull Station
+SK-PULL-DA,Silent Knight,Pull Station
+SK-PULL-SA,Silent Knight,Pull Station
+FRM-1,Notifier,Relay Module
+IDP-RELAY,Silent Knight,Relay Module
+NC-100R,Notifier,Relay Module
+SD500-ARM,Silent Knight,Relay Module
+SIGA-CR,Edwards,Relay Module
+SK-RELAY,Silent Knight,Relay Module
+RTS151KEY,System Sensor,Remote Test Switch
+SD-TRK,Edwards,Remote Test Switch
+2151,System Sensor,Smoke Detector
+2W-B,System Sensor,Smoke Detector
+ASD-PL3,Honeywell FCI,Smoke Detector
+FP-11,Siemens,Smoke Detector
+FSP-851,Notifier,Smoke Detector
+FSP-951,Notifier,Smoke Detector
+FSP-951R,Notifier,Smoke Detector
+FWD-200P,Notifier,Smoke Detector
+HFP-11,Siemens,Smoke Detector
+i4618,Kiddie,Smoke Detector
+IDP-PHOTO,Silent Knight,Smoke Detector
+IDP-PHOTO-W,Silent Knight,Smoke Detector
+NP-100,Notifier,Smoke Detector
+SD505-AIS,Silent Knight,Smoke Detector
+SD505-APS,Silent Knight,Smoke Detector
+SIGA-PD,Edwards,Smoke Detector
+SIGA-PS,Edwards,Smoke Detector
+SK-PHOTO,Silent Knight,Smoke Detector
+SK-PHOTO-W,Silent Knight,Smoke Detector
+5860,Silent Knight,System Annunciator
+6860,Silent Knight,System Annunciator
+5860R,Silent Knight,System Annunciator
+FirstVision,Notifier,System Annunciator
+NCA-2,Notifier,System Annunciator
+RA-100,Silent Knight,System Annunciator
+SK-5235,Silent Knight,System Annunciator
+BB-SCS,Milwaukee Valve Co.,Tamper Switch
+BFG-300,Reliable,Tamper Switch
+GD-4765-8N,Nibco,Tamper Switch
+OSY2,System Sensor,Tamper Switch
+OSYSU-2,Potter Electrical Signal Company,Tamper Switch
+Series 700,Victaulic,Tamper Switch
+Series 705,Victaulic,Tamper Switch
